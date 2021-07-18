@@ -4,7 +4,7 @@ VR 두더지잡기 미니게임
 - SteamVR Plugin 사용
 
 # 영상
-[![MolePang VR](https://img.youtube.com/vi/KFwt_NotHz0/0.jpg)](https://www.youtube.com/embed/KFwt_NotHz0 "MolePang VR")
+[![MolePang VR](https://img.youtube.com/vi/KFwt_NotHz0/0.jpg)](https://youtu.be/KFwt_NotHz0 "MolePang VR")
 
 # 개발 내역
 
