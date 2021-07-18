@@ -3,12 +3,13 @@ VR 두더지잡기 미니게임
 - Unity 2017.3.1f1
 - SteamVR Plugin 사용
 
-#영상
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KFwt_NotHz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+# 영상
 
-#개발 내역
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFwt_NotHz0" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+# 개발 내역
 ---- 20180406 ----
-###v1.0 
+### v1.0 
 * Mole
 -> 위 / 아래 움직임
 -> 피격 판정
@@ -17,7 +18,7 @@ VR 두더지잡기 미니게임
 
 * 테스트용 플레이어
 
-###v1.1
+### v1.1
 * Mole
 -> 이펙트 추가
 -> 공격 당하는 중 표정 변경
@@ -28,7 +29,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180409 ----
-###v1.2
+### v1.2
 * Bomb
 -> Mole 코드 복붙
 -> 판정이 좀더 위에 있게 설정
@@ -46,7 +47,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180410 ----
-###v1.3
+### v1.3
 * MoleHat -> MoleHelmat
 -> Hp = 2
 -> 첫번째 타격 시 모자 날아가는 애니메이션 + 맞는 이펙트
@@ -74,7 +75,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180411 ----
-###v1.4
+### v1.4
 * SteamPlugin 에셋 넣음
 
 * PostProcess 에러 해결
@@ -92,7 +93,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180412 ----
-###v1.5
+### v1.5
 * DataManager
 -> Score 처리
 -> HP 처리
@@ -117,7 +118,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180412 ----
-###v1.6
+### v1.6
 * 에러 고침
 
 * 난이도 별로 시작(스테이값 다르게)
@@ -140,7 +141,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180421 ----
-###v1.7
+### v1.7
 * UIButtons
 -> 버튼 종류별로 처리
 -> Start / BackToMenu
@@ -166,7 +167,7 @@ VR 두더지잡기 미니게임
 
 
 ---- 20180424 ----
-###v1.8
+### v1.8
 *PlayerController
 -> 플레이어 버그 방지(두더지 / 폭탄 들어올릴 없게 만듬)
 -> 경계 Trigger에 닿으면 플레이어 Collider -> Trigger로 바꿔 못들어 올리게 만듬
