@@ -4,7 +4,7 @@
 * 대학원에서 진행한 프로젝트 "치매 노인 예방을 위한 VR 미니게임" 중 하나
 * VR장비로 플레이하는 두더지 잡기 게임
 
-# 영상
+## 영상(이미지 클릭 시 유투브로 이동)
 [![MolePang VR](https://img.youtube.com/vi/KFwt_NotHz0/0.jpg)](https://youtu.be/KFwt_NotHz0 "MolePang VR")
 
 ## 개발 환경
