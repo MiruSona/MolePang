@@ -1,10 +1,20 @@
 # MolePang
-VR 두더지잡기 미니게임 
-- Unity 2017.3.1f1
-- SteamVR Plugin 사용
+
+## 프로젝트 설명
+* 대학원에서 진행한 프로젝트 "치매 노인 예방을 위한 VR 미니게임" 중 하나
+* VR장비로 플레이하는 두더지 잡기 게임
 
 # 영상
 [![MolePang VR](https://img.youtube.com/vi/KFwt_NotHz0/0.jpg)](https://youtu.be/KFwt_NotHz0 "MolePang VR")
+
+## 개발 환경
+- Unity 2017.3.1f1
+- SteamVR Plugin
+- HTC Vive
+
+## 프로젝트 팀원 및 역할
+* 그래픽, 프로그래머 2인 개발
+* 나의 역할 : 프로그래머
 
 # 개발 내역
 
